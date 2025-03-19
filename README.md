@@ -1,2 +1,2 @@
 # Appphython
-App for statistic in python
+App for statistic in python.
